@@ -1,9 +1,9 @@
 # Welcome!
 
-This Bash template lets you get started quickly with a simple one-page playground.
+This Perl template lets you get started quickly with a simple one-page playground.
 
-```bash runnable
-echo "Hello World!"
+```perl runnable
+print "Hello World!";
 ```
 
 # Advanced usage
