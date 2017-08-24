@@ -1,5 +1,5 @@
-title: Simple Bash template
+title: Simple Perl template
 
 plan:
-  - title: Bash Snippet
+  - title: Perl Snippet
     statement: statement.md
